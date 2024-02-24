@@ -40,7 +40,9 @@ The solution involves the following steps:
    ```bash
    node index.js
    ```
-  or
+
+   or
+
    ```bash
    npm start
    ```
